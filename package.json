@@ -1,7 +1,7 @@
 {
   "name": "patreon-crawler",
   "version": "1.0.0",
-  "description": "Crawls Patreon feed for YouTube links.",
+  "description": "Crawls video posts off Patreon and imports them into a PostgreSQL DB.",
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
